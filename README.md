@@ -1,2 +1,2 @@
 # pbe
-{"v":"1.0.0", "f":"0", "u":"https://192.168.6.87:1234/download", "d":"1"}
+{"ver":"1.0", "enable":"0", "sign":"whosyourdaddy"}
